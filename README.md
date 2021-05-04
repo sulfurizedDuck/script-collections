@@ -5,3 +5,4 @@ Here are some scripts I frequently uses in my daily work life. They are, indeed,
 List of scripts:
 - youtube_partial_repeater: Repeat youtube musics - but only a portion of them
 - youtube_playback_speed_adjuster: Adjust video playback rate - works for local video files too
+- internet_connection_checker: Check whether your wifi or whatever is connected to internet and ring an alarm if it is
